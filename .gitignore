@@ -3,6 +3,7 @@ infra/*.tfstate
 infra/*.tfstate.backup
 infra/.*
 
+extract-censo/tmp*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
